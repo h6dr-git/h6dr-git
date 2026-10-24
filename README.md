@@ -56,8 +56,8 @@ AI와 문제를 정리하고 조사를 맡긴 뒤 방향은 직접 정합니다.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=h6dr-git&show_icons=true&hide_border=true&theme=github_dark&locale=kr&hide=prs,issues,contribs&hide_rank=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=h6dr-git&show_icons=true&hide_border=true&theme=default&locale=kr&hide=prs,issues,contribs&hide_rank=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=h6dr-git&show_icons=true&hide_border=true&theme=github_dark&locale=kr&hide=prs%2Cissues%2Ccontribs&hide_rank=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=h6dr-git&show_icons=true&hide_border=true&theme=default&locale=kr&hide=prs%2Cissues%2Ccontribs&hide_rank=true">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=h6dr-git&layout=compact&hide_border=true&theme=github_dark&locale=kr">
