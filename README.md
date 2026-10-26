@@ -50,6 +50,8 @@ AI와 문제를 정리하고 조사를 맡긴 뒤 방향은 직접 정합니다.
 | [improvement-verdict](https://github.com/h6dr-git/improvement-verdict) | AI 워크플로우 수정 전/후의 통과·실패 결과만으로 개선·개악·차이 없음·아직 모름을 판정하는 Codex 플러그인 — AX 인재전쟁 1기 예선작(본선 진출) | 2026-07 |
 | [geojilog](https://github.com/h6dr-git/geojilog) | 아낀 돈을 '수익'으로 적는 가계부 웹앱 — React 19 · tRPC · Gemini. 2026-06 공개, 07 운영 종료 | 2026-06 |
 | partner-shop-survival | 공공 인허가 데이터로 본 학생회 제휴 가게 생존 분석 — 2026 데이터+AI 혁신 챌린지 출품작 (결과 발표 뒤 공개) | 2026-10 |
+| [claude-pace](https://github.com/h6dr-git/claude-pace) | Claude·Codex 구독 한도(5시간·주간)·리셋·소진 페이스를 보여 주는 macOS 메뉴바 앱 — Swift · 공식 CLI만 사용 | 2026-08 |
+| [dopamine](https://github.com/h6dr-git/dopamine) | 뚜껑을 닫아도 맥이 안 잠드는 macOS 메뉴바 토글 — Swift · 배터리로도 유지, 끄면 평소 잠자기로 원복 | 2026-09 |
 
 ## 📊 GitHub Stats
 
